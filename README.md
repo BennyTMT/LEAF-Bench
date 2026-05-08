@@ -1,4 +1,4 @@
-# LEAF: A Living Benchmark for Event-Augmented Future Forecasting
+# LEAF 🍁: A Living Benchmark for Event-Augmented Future Forecasting
 
 **LEAF**: We introduce a dynamically updating ("living") benchmark designed to evaluate Large Language Models (LLMs) on complex, event-driven forecasting tasks across four domains. 
 
